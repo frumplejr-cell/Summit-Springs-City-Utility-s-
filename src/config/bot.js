@@ -23,7 +23,7 @@ export const botConfig = {
     // 4 = Custom
     // 5 = Competing
     activities:Playing [
-      {
+      
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Summit Springs Roleplay On ERLC"
           ,
