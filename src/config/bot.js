@@ -28,7 +28,7 @@ export const botConfig = {
         name:" Summit Springs Roleplay On ERLC"
           ,
         // Activity type number (0 = Playing).
-        type: 0,
+        type: 1,
       },
     ],
   },
