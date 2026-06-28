@@ -22,10 +22,10 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
-    activities: [
+    activities:Playing [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "SSRP BOT"
+        name: "Summit Springs Roleplay On ERLC"
           ,
         // Activity type number (0 = Playing).
         type: 0,
